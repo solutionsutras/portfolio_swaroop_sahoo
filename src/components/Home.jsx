@@ -15,7 +15,7 @@ const Home = () => {
           I'm a Freelance Consultant and Solution Architect
         </h2>
         <p className="text-gray-500 py-4 text-lg max-w-md">
-           I have 15+ years of experience in IT industry accross skills and across domains.
+           with 15+ years of experience in IT industry accross skills and across domains.
           Currently, I work on MERN stack, Laravel applications.
         </p>
         <div>

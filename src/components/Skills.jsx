@@ -40,6 +40,9 @@ const Skills = () => {
             <p className="my-4">REACT JS</p>
           </div>
           <div className="shadow-md shadow-[#040c16] hover:scale-110 duration-500">
+            <p className="my-4">REACT NATIVE</p>
+          </div>
+          <div className="shadow-md shadow-[#040c16] hover:scale-110 duration-500">
             <p className="my-4">NEXT JS</p>
           </div>
           <div className="shadow-md shadow-[#040c16] hover:scale-110 duration-500">
@@ -95,6 +98,15 @@ const Skills = () => {
           </div>
           <div className="shadow-md shadow-[#040c16] hover:scale-110 duration-500">
             <p className="my-4">PROJECT MANAGEMENT</p>
+          </div>
+          <div className="shadow-md shadow-[#040c16] hover:scale-110 duration-500">
+            <p className="my-4">SYSTEM ANANLYSIS</p>
+          </div>
+          <div className="shadow-md shadow-[#040c16] hover:scale-110 duration-500">
+            <p className="my-4">REQUIREMENT GATHERING</p>
+          </div>
+          <div className="shadow-md shadow-[#040c16] hover:scale-110 duration-500">
+            <p className="my-4">SRS/DFD/TSD/BSD</p>
           </div>
         </div>
       </div>
